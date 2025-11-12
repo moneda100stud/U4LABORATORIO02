@@ -1,0 +1,4 @@
+pygame.init()
+ANCHO, ALTO = 900, 500
+pantalla = pygame.display.set_mode((ANCHO, ALTO))
+pygame.display.set_caption("Neon Platformer")
