@@ -75,4 +75,5 @@ Esta es la clase principal que realiza el análisis léxico.
 
 ## 4. Conclusión
 
-A través de una serie de mejoras iterativas, el script ha evolucionado desde un prototipo básico a un analizador léxico funcional y robusto. Las correcciones en la visualización, el uso de cadenas crudas y la depuración de las expresiones regulares han sido pasos clave para lograr un resultado preciso y fácil de interpretar.
+
+ un prototipo básico a un analizador léxico funcional y robusto. Las correcciones en la visualización, el uso de cadenas crudas y la depuración de las expresiones regulares han sido pasos clave para lograr un resultado preciso y fácil de interpretar.
